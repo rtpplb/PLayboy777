@@ -1,5 +1,5 @@
 .game-provider-slider {
-    background-color: #2B7A0B;
+    background-color: #0f3ba9;
     margin-top: 25px;
     display: flex;
 }
@@ -47,7 +47,7 @@
 }
 
 .game-provider-slider>button:hover {
-    background-color: #2A0944;
+    background-color: #1a56eb;
 }
 
 @media (max-width: 992px) {
